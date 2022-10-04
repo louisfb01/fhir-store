@@ -1,0 +1,1 @@
+FROM healthsamurai/devbox:latest
