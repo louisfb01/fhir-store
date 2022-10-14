@@ -1,5 +1,5 @@
 {
-  "name": "site-store-stub",
+  "name": "fhir-store",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coda-platform/site-store-stub.git"
+    "url": "git+https://github.com/coda-platform/fhir-store.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coda-platform/site-store-stub/issues"
+    "url": "https://github.com/coda-platform/fhir-store/issues"
   },
-  "homepage": "https://github.com/coda-platform/site-store-stub#readme",
+  "homepage": "https://github.com/coda-platform/fhir-store#readme",
   "dependencies": {
     "dotenv": "^16.0.3"
   }
