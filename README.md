@@ -3,7 +3,7 @@
 ### Overview
 
 - **Description:** This repository deploys [DevBox/AidBox](https://github.com/Aidbox/devbox), a FHIR database server.
-- **Primary author(s):** Louis Mullie [[@louism](https://github.com/louismullie)].
+- **Primary author(s):** Louis Mullie [[@louismullie](https://github.com/louismullie)].
 - **Contributors:** none.
 - **License:** The code in this repository is released under the GNU General Public License, V3.
 
