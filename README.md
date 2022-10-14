@@ -1,4 +1,4 @@
-# Site store stub
+# FHIR data store
 
 ### Overview
 
