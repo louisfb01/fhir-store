@@ -30,6 +30,14 @@
             "value": "$AIDBOX_CLIENT_SECRET"
         },
         {
+            "key": "AIDBOX_ADMIN_ID",
+            "value": "$AIDBOX_ADMIN_ID"
+        },
+        {
+            "key": "AIDBOX_ADMIN_SECRET",
+            "value": "$AIDBOX_ADMIN_SECRET"
+        },
+        {
             "key": "PGHOST",
             "value": "$PGHOST"
         },
