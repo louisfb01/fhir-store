@@ -34,8 +34,8 @@
             "value": "$AIDBOX_ADMIN_ID"
         },
         {
-            "key": "AIDBOX_ADMIN_SECRET",
-            "value": "$AIDBOX_ADMIN_SECRET"
+            "key": "AIDBOX_ADMIN_PASSWORD",
+            "value": "$AIDBOX_ADMIN_PASSWORD"
         },
         {
             "key": "PGHOST",
