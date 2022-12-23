@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/coda-platform/fhir-store.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Louis Mullie",
+  "license": "GPL v3",
   "bugs": {
     "url": "https://github.com/coda-platform/fhir-store/issues"
   },

@@ -2,60 +2,60 @@
     "appName": "fhir-store",
     "instanceCount": 1,
     "notExposeAsWebApp": false,
-    "containerHttpPort": "$AIDBOX_PORT",
+    "containerHttpPort": "$CODA_FHIR_STORE_PORT",
     "forceSsl": true,
     "envVars": [
         {
-            "key": "AIDBOX_PORT",
-            "value": "$AIDBOX_PORT"
+            "key": "CODA_FHIR_STORE_PORT",
+            "value": "$CODA_FHIR_STORE_PORT"
         },
         {
-            "key": "AIDBOX_LICENSE_ID",
-            "value": "$AIDBOX_LICENSE_ID"
+            "key": "CODA_FHIR_STORE_FHIR_VERSION",
+            "value": "$CODA_FHIR_STORE_FHIR_VERSION"
         },
         {
-            "key": "AIDBOX_LICENSE_KEY",
-            "value": "$AIDBOX_LICENSE_KEY"
+            "key": "CODA_FHIR_STORE_LICENSE_ID",
+            "value": "$CODA_FHIR_STORE_LICENSE_ID"
         },
         {
-            "key": "AIDBOX_FHIR_VERSION",
-            "value": "$AIDBOX_FHIR_VERSION"
+            "key": "CODA_FHIR_STORE_LICENSE_KEY",
+            "value": "$CODA_FHIR_STORE_LICENSE_KEY"
         },
         {
-            "key": "AIDBOX_CLIENT_ID",
-            "value": "$AIDBOX_CLIENT_ID"
+            "key": "CODA_FHIR_STORE_CLIENT_ID",
+            "value": "$CODA_FHIR_STORE_CLIENT_ID"
         },
         {
-            "key": "AIDBOX_CLIENT_SECRET",
-            "value": "$AIDBOX_CLIENT_SECRET"
+            "key": "CODA_FHIR_STORE_CLIENT_SECRET",
+            "value": "$CODA_FHIR_STORE_CLIENT_SECRET"
         },
         {
-            "key": "AIDBOX_ADMIN_ID",
-            "value": "$AIDBOX_ADMIN_ID"
+            "key": "CODA_FHIR_STORE_DB_HOST",
+            "value": "$CODA_FHIR_STORE_DB_HOST"
         },
         {
-            "key": "AIDBOX_ADMIN_PASSWORD",
-            "value": "$AIDBOX_ADMIN_PASSWORD"
+            "key": "CODA_FHIR_STORE_ADMIN_USERNAME",
+            "value": "$CODA_FHIR_STORE_ADMIN_USERNAME"
         },
         {
-            "key": "PGHOST",
-            "value": "$PGHOST"
+            "key": "CODA_FHIR_STORE_ADMIN_PASSWORD",
+            "value": "$CODA_FHIR_STORE_ADMIN_PASSWORD"
         },
         {
-            "key": "PGPORT",
-            "value": "$PGPORT"
+            "key": "CODA_FHIR_STORE_DB_USERNAME",
+            "value": "$CODA_FHIR_STORE_DB_USERNAME"
         },
         {
-            "key": "PGUSER",
-            "value": "$PGUSER"
+            "key": "CODA_FHIR_STORE_DB_PASSWORD",
+            "value": "$CODA_FHIR_STORE_DB_PASSWORD"
         },
         {
-            "key": "PGPASSWORD",
-            "value": "$PGPASSWORD"
+            "key": "CODA_FHIR_STORE_DB_NAME",
+            "value": "$CODA_FHIR_STORE_DB_NAME"
         },
         {
-            "key": "PGDATABASE",
-            "value": "$PGDATABASE"
+            "key": "CODA_FHIR_STORE_DB_PORT",
+            "value": "$CODA_FHIR_STORE_DB_PORT"
         }
     ]
 }
