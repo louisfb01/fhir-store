@@ -3,7 +3,7 @@
     "instanceCount": 1,
     "notExposeAsWebApp": false,
     "containerHttpPort": "$CODA_FHIR_STORE_PORT",
-    "forceSsl": true,
+    "forceSsl": false,
     "envVars": [
         {
             "key": "CODA_FHIR_STORE_PORT",
